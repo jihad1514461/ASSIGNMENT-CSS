@@ -16,9 +16,9 @@
   .smaller-image {
     width: 100px;
   }
-  .thin-green-border {
+  .thick-green-border {
     border-color: green;
-    border-width: 5px;
+    border-width: 10px;
     border-style: solid;
   }
 </style>
@@ -27,7 +27,7 @@
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img class="smaller-image thin-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image thick-green-border" src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
 
   <div>
     <p>Things cats love:</p>
